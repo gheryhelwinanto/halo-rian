@@ -155,3 +155,13 @@ body {
   height: px;
 } */
 
+.badan-halaman {
+  background-image: url(meeting.png);
+  background-position: right;
+  background-size: 617px 602px;
+}
+
+.badan-halaman .latar-belakang {
+  
+  
+}
