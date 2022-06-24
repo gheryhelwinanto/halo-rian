@@ -63,6 +63,14 @@ input, select {
     https://www.ninth.digital/blog-posts/what-is-a-css-reset-and-the-proper-way-to-do-it
  */
 
+/* Berikut adalah daftar warna yang digunakan di dalam webiste:
+    - #5e503f umber
+    - #eae005 white coffe
+    - #b7c828 khaki
+    - #22333b ebony clay
+ */
+
+
 .menu {
   background: white;
   padding: 5px;
