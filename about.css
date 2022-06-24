@@ -156,12 +156,27 @@ body {
 } */
 
 .badan-halaman {
-  background-image: url(meeting.png);
-  background-position: right;
-  background-size: 617px 602px;
+  background: white;
+  width: 100%;
+  margin: auto;
+  height: 100vh;
 }
 
-.badan-halaman .latar-belakang {
-  
-  
+.badan-halaman .wise-word {
+  display: inline-block;
+  background: ;
+  width: 60%;
+  height: 400px;
+  position: absolute;
+  padding: 10px;
 }
+
+.badan-halaman .latar-belakang img{
+    width: 550px;
+    height: 535px;
+    display: inline-block;
+    position: absolute;
+    margin: 0px 0px 0px 850px;
+
+  }
+
