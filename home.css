@@ -64,10 +64,13 @@ input, select {
  */
 
 /* Berikut adalah daftar warna yang digunakan di dalam webiste:
-    - #5e503f umber
-    - #eae005 white coffe
-    - #b7c828 khaki
-    - #22333b ebony clay
+    - #8a584c 
+    - #f5eacf
+    - #ceb793
+    - #85865f
+    - #4f583d
+    - #8fa6ac
+    
  */
 
 
@@ -78,7 +81,7 @@ input, select {
 
 .menu .logo {
   display: inline-block;
-  background: red;
+  background: #8a584c;
   width: 300px;
   height: 90px;
 }
@@ -93,7 +96,7 @@ input, select {
 }
 
 .menu .submenu a {
-  color: navy;
+  color: #8a584c;
   text-decoration: none;
   text-align: center;
   font-size: 22px;
@@ -101,14 +104,14 @@ input, select {
 }
 
 .menu .submenu a:hover {
-  color: yellow;
+  color: #f5eacf;
 }
 
 
 .bar-pencarian {
   display: inline-block;
   position: absolute;
-  background: red;
+  background: #85865f;
   border-radius: 60px;
   width : 100%;
   max-width: 300px;
@@ -141,7 +144,8 @@ input, select {
   border-radius: 60px;
 }
 
-.bar-pencarian .pencarian .icon img {
+/* .bar-pencarian .pencarian .icon img {
   width: px;
   height: px;
-}
+} */
+
